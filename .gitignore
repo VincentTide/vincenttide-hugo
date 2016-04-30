@@ -1,0 +1,7 @@
+*.py[cod]
+
+# PyCharm
+.idea
+
+# Ignore public directory from Hugo
+public
