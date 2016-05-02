@@ -1,0 +1,5 @@
+modalID: 2
+title: CheckRobot.com
+date: 2014-07-14
+img: checkrobot.png
+description: A modern and free check printing service for small businesses and home users. Users are able to add their bank account details and save regular payees so writing a check is as simple as entering in the amount. Written in Python, Flask web framework, PostgreSQL database, Twitter Bootstrap for user interface, ReportLab for PDF generation and SSL/HTTPS on Nginx.
