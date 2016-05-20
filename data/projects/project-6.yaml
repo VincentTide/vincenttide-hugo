@@ -2,4 +2,4 @@ modalID: 6
 title: Google Adwords Domain Name Checker
 date: 2014-07-19
 img: domainchecker.png
-description: A Windows desktop GUI application to scrape keywords from the Google Adwords Keyword Tool and check for the exact match domain using a combination of WHOIS data and Google's public DNS server. Data was saved to a SQLite database and included IP proxy support. Monthly subscription payments was handled via PayPal Payments API.
+description: A Windows desktop GUI application to scrape keywords from the Google Adwords Keyword Tool and check for the exact match domain using a combination of WHOIS data and Google's public DNS server. Data was saved to a SQLite database and included IP proxy support.
