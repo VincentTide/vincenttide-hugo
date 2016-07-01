@@ -59,7 +59,7 @@ theme = "hugo-freelancer-theme"
 
         [params.about.button]
             text = "Resume"
-            link = "/files/Jin-Vincent-Zhang-Resume.pdf"
+            link = "/files/resume.pdf"
             icon = "download"
 
 
