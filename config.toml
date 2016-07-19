@@ -64,7 +64,6 @@ theme = "hugo-freelancer-theme"
 
 
     [params.footer]
-        copyright = "Powered by [Hugo](//gohugo.io), Golang, and Github Pages."
 
         [params.footer.location]
             title = "Location"
